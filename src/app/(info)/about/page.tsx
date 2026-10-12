@@ -63,12 +63,12 @@ export default function AboutPage() {
         <ul className="space-y-2 text-base leading-7">
           <li>
             <a
-              href="https://github.com/b4631119-oss"
+              href="https://github.com/bilolidin-dev"
               target="_blank"
               rel="noreferrer"
               className="text-sky-700 underline decoration-sky-300 underline-offset-4 hover:text-sky-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 dark:text-sky-300 dark:hover:text-sky-200"
             >
-              GitHub: github.com/b4631119-oss
+              GitHub: github.com/bilolidin-dev
             </a>
           </li>
           <li>

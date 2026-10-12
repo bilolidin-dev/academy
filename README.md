@@ -15,7 +15,7 @@ JavaScript, DOM и инструментам разработчика досту�
 Проект разработан для **PROlab Academy** (г. Ош, Кыргызстан).
 
 - 🔗 **Сайт проекта:** https://prolab-academy.site
-- 💻 **GitHub репозиторий:** https://github.com/b4631119-oss/academy
+- 💻 **GitHub репозиторий:** https://github.com/bilolidin-dev/academy
 
 ---
 
@@ -56,7 +56,7 @@ JavaScript, DOM и инструментам разработчика досту�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/b4631119-oss/academy.git
+git clone https://github.com/bilolidin-dev/academy.git
 cd academy
 ```
 
@@ -130,7 +130,7 @@ npx playwright test --config=playwright.prod.config.ts
 
 Эти заметки ведутся здесь, а не на публичных страницах.
 
-- **Имена:** репозиторий на GitHub называется `github.com/b4631119-oss/academy` — все ссылки на него приведены к этому имени. npm-пакет остаётся `prolab-academy`, домен сайта — `prolab-academy.site`.
+- **Имена:** репозиторий на GitHub называется `github.com/bilolidin-dev/academy` — все ссылки на него приведены к этому имени. npm-пакет остаётся `prolab-academy`, домен сайта — `prolab-academy.site`.
 - **Контакты опубликованы:** на `/contact` и `/privacy` указан email `bilolmen998@gmail.com` рядом с GitHub.
 - **Уже принятые решения по данным**, чтобы не искать заново: юридические реквизиты владельца на страницах не публикуются; раздел про журналы хостинга удалён; отдельная процедура удаления данных не описывается, потому что сайт ничего не собирает.
 - **Правило на будущее:** учётные записи, формы, аналитика или сторонние сервисы требуют обновления политики конфиденциальности до запуска.
@@ -141,7 +141,7 @@ npx playwright test --config=playwright.prod.config.ts
 
 - **Разработчик:** Билолидин
 - 📍 г. Ош, Кыргызстан
-- 💻 **GitHub:** https://github.com/b4631119-oss
+- 💻 **GitHub:** https://github.com/bilolidin-dev
 - 🌐 **Портфолио:** https://portfolio-devroot.vercel.app
 
 ---
@@ -152,7 +152,7 @@ npx playwright test --config=playwright.prod.config.ts
 напишите автору напрямую:
 
 - 📧 **Email:** bilolmen998@gmail.com
-- 💻 **GitHub:** https://github.com/b4631119-oss
+- 💻 **GitHub:** https://github.com/bilolidin-dev
 
 Контрибуции и обсуждение приветствуются — так проект становится лучше. Пожалуйста,
 не форкайте проект и не выпускайте его как отдельный продукт без разрешения автора.

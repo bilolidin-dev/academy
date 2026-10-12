@@ -51,7 +51,7 @@ const organizationJsonLd = {
   url: SITE_URL,
   logo: `${SITE_URL}/hero-image.png`,
   sameAs: [
-    "https://github.com/b4631119-oss/academy",
+    "https://github.com/bilolidin-dev/academy",
   ],
   address: {
     "@type": "PostalAddress",
