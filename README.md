@@ -142,7 +142,7 @@ npx playwright test --config=playwright.prod.config.ts
 - **Разработчик:** Билолидин
 - 📍 г. Ош, Кыргызстан
 - 💻 **GitHub:** https://github.com/bilolidin-dev
-- 🌐 **Портфолио:** https://portfolio-devroot.vercel.app
+- 🌐 **Портфолио:** [https://www.bilolidin.dev/](https://www.bilolidin.dev/)
 
 ---
 
